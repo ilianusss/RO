@@ -1,0 +1,116 @@
+Global seed = 589891.
+KMeans seed = 128813.
+
+→ Base 1 (coord : -73.6,45.5) 1692.3 km (dont 87.2 km de trajet) → coût 1717.80 € :
+  • Drone 1 : 104.9 km (2.8 km de trajet) → coût 101.05 €
+  • Drone 2 : 105.0 km (4.0 km de trajet) → coût 101.05 €
+  • Drone 3 : 104.9 km (4.3 km de trajet) → coût 101.05 €
+  • Drone 4 : 105.0 km (10.8 km de trajet) → coût 101.05 €
+  • Drone 5 : 105.0 km (7.0 km de trajet) → coût 101.05 €
+  • Drone 6 : 104.8 km (3.8 km de trajet) → coût 101.05 €
+  • Drone 7 : 105.0 km (4.4 km de trajet) → coût 101.05 €
+  • Drone 8 : 105.0 km (2.0 km de trajet) → coût 101.05 €
+  • Drone 9 : 104.9 km (6.9 km de trajet) → coût 101.05 €
+  • Drone 10 : 105.0 km (12.3 km de trajet) → coût 101.05 €
+  • Drone 11 : 105.0 km (2.7 km de trajet) → coût 101.05 €
+  • Drone 12 : 105.0 km (4.2 km de trajet) → coût 101.05 €
+  • Drone 13 : 105.0 km (4.9 km de trajet) → coût 101.05 €
+  • Drone 14 : 105.0 km (2.0 km de trajet) → coût 101.05 €
+  • Drone 15 : 104.8 km (6.1 km de trajet) → coût 101.05 €
+  • Drone 16 : 104.9 km (5.6 km de trajet) → coût 101.05 €
+  • Drone 17 : 100.5 km (3.6 km de trajet) → coût 101.01 €
+→ Base 2 (coord : -73.7,45.5) 1671.5 km (dont 110.5 km de trajet) → coût 1717.82 € :
+  • Drone 1 : 104.7 km (8.5 km de trajet) → coût 101.05 €
+  • Drone 2 : 104.9 km (7.0 km de trajet) → coût 101.05 €
+  • Drone 3 : 104.9 km (5.5 km de trajet) → coût 101.05 €
+  • Drone 4 : 104.8 km (3.4 km de trajet) → coût 101.05 €
+  • Drone 5 : 104.9 km (4.2 km de trajet) → coût 101.05 €
+  • Drone 6 : 105.0 km (4.2 km de trajet) → coût 101.05 €
+  • Drone 7 : 104.9 km (2.0 km de trajet) → coût 101.05 €
+  • Drone 8 : 104.6 km (5.8 km de trajet) → coût 101.05 €
+  • Drone 9 : 104.6 km (13.4 km de trajet) → coût 101.05 €
+  • Drone 10 : 104.8 km (8.1 km de trajet) → coût 101.05 €
+  • Drone 11 : 104.7 km (6.0 km de trajet) → coût 101.05 €
+  • Drone 12 : 104.7 km (9.4 km de trajet) → coût 101.05 €
+  • Drone 13 : 104.7 km (3.3 km de trajet) → coût 101.05 €
+  • Drone 14 : 104.9 km (11.5 km de trajet) → coût 101.05 €
+  • Drone 15 : 104.9 km (5.9 km de trajet) → coût 101.05 €
+  • Drone 16 : 105.0 km (3.9 km de trajet) → coût 101.05 €
+  • Drone 17 : 105.0 km (8.6 km de trajet) → coût 101.05 €
+→ Base 3 (coord : -73.6,45.5) 1855.7 km (dont 120.3 km de trajet) → coût 1919.76 € :
+  • Drone 1 : 104.9 km (8.7 km de trajet) → coût 101.05 €
+  • Drone 2 : 105.0 km (9.3 km de trajet) → coût 101.05 €
+  • Drone 3 : 104.9 km (4.9 km de trajet) → coût 101.05 €
+  • Drone 4 : 104.5 km (1.6 km de trajet) → coût 101.05 €
+  • Drone 5 : 105.0 km (0.5 km de trajet) → coût 101.05 €
+  • Drone 6 : 105.0 km (4.8 km de trajet) → coût 101.05 €
+  • Drone 7 : 104.7 km (11.5 km de trajet) → coût 101.05 €
+  • Drone 8 : 104.8 km (9.1 km de trajet) → coût 101.05 €
+  • Drone 9 : 104.9 km (5.6 km de trajet) → coût 101.05 €
+  • Drone 10 : 104.9 km (5.7 km de trajet) → coût 101.05 €
+  • Drone 11 : 105.0 km (4.6 km de trajet) → coût 101.05 €
+  • Drone 12 : 105.0 km (8.7 km de trajet) → coût 101.05 €
+  • Drone 13 : 105.0 km (9.5 km de trajet) → coût 101.05 €
+  • Drone 14 : 104.7 km (7.8 km de trajet) → coût 101.05 €
+  • Drone 15 : 104.8 km (5.5 km de trajet) → coût 101.05 €
+  • Drone 16 : 104.9 km (4.3 km de trajet) → coût 101.05 €
+  • Drone 17 : 104.8 km (8.4 km de trajet) → coût 101.05 €
+  • Drone 18 : 105.0 km (3.2 km de trajet) → coût 101.05 €
+  • Drone 19 : 88.3 km (6.7 km de trajet) → coût 100.88 €
+→ Base 4 (coord : -73.9,45.5) 843.6 km (dont 52.5 km de trajet) → coût 908.96 € :
+  • Drone 1 : 104.7 km (10.3 km de trajet) → coût 101.05 €
+  • Drone 2 : 105.0 km (8.3 km de trajet) → coût 101.05 €
+  • Drone 3 : 104.9 km (5.3 km de trajet) → coût 101.05 €
+  • Drone 4 : 104.9 km (8.7 km de trajet) → coût 101.05 €
+  • Drone 5 : 105.0 km (3.1 km de trajet) → coût 101.05 €
+  • Drone 6 : 104.9 km (3.4 km de trajet) → coût 101.05 €
+  • Drone 7 : 104.8 km (2.3 km de trajet) → coût 101.05 €
+  • Drone 8 : 104.9 km (7.8 km de trajet) → coût 101.05 €
+  • Drone 9 : 57.0 km (3.2 km de trajet) → coût 100.57 €
+→ Base 5 (coord : -73.5,45.6) 1986.4 km (dont 174.1 km de trajet) → coût 2121.60 € :
+  • Drone 1 : 104.9 km (11.8 km de trajet) → coût 101.05 €
+  • Drone 2 : 104.9 km (10.2 km de trajet) → coût 101.05 €
+  • Drone 3 : 104.9 km (14.1 km de trajet) → coût 101.05 €
+  • Drone 4 : 105.0 km (9.6 km de trajet) → coût 101.05 €
+  • Drone 5 : 105.0 km (8.6 km de trajet) → coût 101.05 €
+  • Drone 6 : 104.9 km (4.2 km de trajet) → coût 101.05 €
+  • Drone 7 : 104.9 km (10.2 km de trajet) → coût 101.05 €
+  • Drone 8 : 105.0 km (1.9 km de trajet) → coût 101.05 €
+  • Drone 9 : 104.9 km (5.2 km de trajet) → coût 101.05 €
+  • Drone 10 : 105.0 km (3.6 km de trajet) → coût 101.05 €
+  • Drone 11 : 105.0 km (4.4 km de trajet) → coût 101.05 €
+  • Drone 12 : 105.0 km (9.5 km de trajet) → coût 101.05 €
+  • Drone 13 : 105.0 km (6.1 km de trajet) → coût 101.05 €
+  • Drone 14 : 103.8 km (7.9 km de trajet) → coût 101.04 €
+  • Drone 15 : 105.0 km (4.5 km de trajet) → coût 101.05 €
+  • Drone 16 : 105.0 km (7.0 km de trajet) → coût 101.05 €
+  • Drone 17 : 104.5 km (9.5 km de trajet) → coût 101.04 €
+  • Drone 18 : 104.9 km (4.2 km de trajet) → coût 101.05 €
+  • Drone 19 : 105.0 km (9.3 km de trajet) → coût 101.05 €
+  • Drone 20 : 104.9 km (12.8 km de trajet) → coût 101.05 €
+  • Drone 21 : 63.1 km (19.3 km de trajet) → coût 100.63 €
+→ Base 6 (coord : -73.6,45.6) 1851.8 km (dont 112.5 km de trajet) → coût 1919.64 € :
+  • Drone 1 : 104.8 km (8.5 km de trajet) → coût 101.05 €
+  • Drone 2 : 104.9 km (5.7 km de trajet) → coût 101.05 €
+  • Drone 3 : 105.0 km (7.5 km de trajet) → coût 101.05 €
+  • Drone 4 : 105.0 km (13.6 km de trajet) → coût 101.05 €
+  • Drone 5 : 104.9 km (5.6 km de trajet) → coût 101.05 €
+  • Drone 6 : 104.8 km (10.5 km de trajet) → coût 101.05 €
+  • Drone 7 : 105.0 km (4.9 km de trajet) → coût 101.05 €
+  • Drone 8 : 105.0 km (3.8 km de trajet) → coût 101.05 €
+  • Drone 9 : 105.0 km (5.7 km de trajet) → coût 101.05 €
+  • Drone 10 : 105.0 km (6.0 km de trajet) → coût 101.05 €
+  • Drone 11 : 104.9 km (5.3 km de trajet) → coût 101.05 €
+  • Drone 12 : 105.0 km (7.0 km de trajet) → coût 101.05 €
+  • Drone 13 : 104.9 km (5.6 km de trajet) → coût 101.05 €
+  • Drone 14 : 104.9 km (4.6 km de trajet) → coût 101.05 €
+  • Drone 15 : 105.0 km (4.2 km de trajet) → coût 101.05 €
+  • Drone 16 : 104.9 km (3.7 km de trajet) → coût 101.05 €
+  • Drone 17 : 104.9 km (0.4 km de trajet) → coût 101.05 €
+  • Drone 18 : 105.0 km (5.1 km de trajet) → coût 101.05 €
+  • Drone 19 : 75.5 km (4.8 km de trajet) → coût 100.75 €
+
+Total bases = 6
+Total drones = 102
+Total distance = 9901.3 km.
+Total cost = 10299.01 €

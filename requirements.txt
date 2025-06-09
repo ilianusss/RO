@@ -1,0 +1,12 @@
+networkx
+osmnx
+matplotlib
+geopandas
+scipy
+shapely
+pyproj
+rtree
+fiona
+pandas
+scikit-learn
+numpy
